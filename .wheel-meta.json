@@ -1,0 +1,22 @@
+{
+  "wheel_id": 856,
+  "structure": "umbrella",
+  "slug": "homeloanbrokergoldcoast-155",
+  "project": "mortgage-broker-gold-coast-dcde563377e30dca9536ec17e533ccc04a6d",
+  "parent_t1_ref": "homeloanbrokergoldcoast-014",
+  "node_role": "buffer",
+  "money_target": "homeloanbrokergoldcoast.com.au",
+  "primary_kw": "mortgage broker gold coast",
+  "intended_url": "https://sitesau.github.io/homeloanbrokergoldcoast-155/",
+  "tier": "T2",
+  "writeback_nonce": "830f7e67d4a04051",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/mortgage-broker-gold-coast-014/",
+      "anchor": "Mortgage Broker Gold Coast: A Practical 2026 Borrower Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
